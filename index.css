@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background: aqua;
+    
+}
+
+.input{
+    background: #fff;
+    width: 90%;
+    max-width: 500px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 25%;
+    display: flex;
+    align-items: center;
+    
+}
+.input img{
+    width: 35px;
+    cursor:pointer; 
+  
+    
+}
+.input input{
+    width: 100%;
+    padding: 10px 0;
+    border: 0;
+    outline: 0;
+    font-size: 30px;
+    color: black; 
+
+}
